@@ -30,7 +30,7 @@ When you run script, you need to enter ID and HASH. To get this data we need to 
 There you can log in your telegram account (you`d better to use your fake profile)
 Then click _API development tools_ and create your app, then you will see data of your app - ID, HASH and other
 
-When you enter your ID, HASH, phone number in script, id wiil be saved in file credentials.txt and you wont have to enter these parameters one more time
+When you enter your ID, HASH, phone number in script, you need to enter confirmation code in telegram and data will be saved in file credentials.txt and you wont have to enter these parameters one more time
 
 5) **Enter source ID and destination ID**
    
