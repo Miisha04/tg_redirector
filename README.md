@@ -1,4 +1,4 @@
-# tg_redirector
+# tg_redirector_clipboard
 you can use your own redirector in Telegram (from clipboard)
 
 Tutorial is the same as in the main branch, but you have only destination
