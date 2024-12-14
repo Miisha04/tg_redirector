@@ -32,10 +32,12 @@ Then click _API development tools_ and create your app, then you will see data o
 
 When you enter your ID, HASH, phone number in script, you need to enter confirmation code in telegram and data will be saved in file credentials.txt and you wont have to enter these parameters one more time
 
+If you get error check credentials.txt, you need to have 3 rows id, hash, phone number. Also, you can write it down in this file. 
+
 5) **Enter source ID and destination ID**
    
 You can use tg bot - _@username_to_id_bot_ to get ID
-After that your script will redirect messages from source to destination while script works
+After that your script will redirect messages from source to destination while script works, **but you need to have source and destination in your chat list.**
 
 -------------------------
 **IF YOU WANT TO SUPPORT ME:**
